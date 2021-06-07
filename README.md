@@ -45,3 +45,7 @@ Zaman:
 •	Collect payment
 •	Prescribe treatment
 •	View medical history
+
+
+**How to Run**
+Install JAVA and MS SQL Server. Use Visual studion code. You need to download the code files and run the main HMS,java file.
